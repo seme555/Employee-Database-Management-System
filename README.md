@@ -20,3 +20,6 @@ Some placeholder text added for documentation.
 
 ### Initialize project structure
 Some placeholder text added for documentation.
+
+### Fix typo in README
+Some placeholder text added for documentation.
