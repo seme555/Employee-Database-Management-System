@@ -17,3 +17,6 @@ Check it out here:
 
 ### Implement initial styling
 Some placeholder text added for documentation.
+
+### Initialize project structure
+Some placeholder text added for documentation.
