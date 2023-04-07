@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1001,
+    "firstName": "Leul",
+    "lastName": "Mengesha",
+    "email": "leulmengesha@gmail.com",
+    "contactNumber": "0987654323",
+    "dob": "2000-05-12",
+    "age": 23,
+    "address": "Addis Ababa, Ethiopia",
+    "imageUrl": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png"
+  },
+  {
+    "id": 1002,
+    "firstName": "Tom",
+    "lastName": "Jerry",
+    "email": "tomjerry@gmail.com",
+    "contactNumber": "0987612345",
+    "dob": "1995-11-01",
+    "age": 28,
+    "address": "Adama, Ethiopia",
+    "imageUrl": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png"
+  },
+  {
+    "id": 1003,
+    "firstName": "Brook",
+    "lastName": "Girma",
+    "email": "brookgirma@gmail.com",
+    "contactNumber": "0912345678",
+    "dob": "1990-08-15",
+    "age": 33,
+    "address": "Bahir Dar, Ethiopia",
+    "imageUrl": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png"
+  },
+  {
+    "id": 1004,
+    "firstName": "Mahi",
+    "lastName": "Samuel",
+    "email": "mahisamuel@gmail.com",
+    "contactNumber": "0978654321",
+    "dob": "1998-03-20",
+    "age": 25,
+    "address": "Hawassa, Ethiopia",
+    "imageUrl": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png"
+  }
+]
