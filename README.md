@@ -23,3 +23,6 @@ Some placeholder text added for documentation.
 
 ### Fix typo in README
 Some placeholder text added for documentation.
+
+### Implement initial styling
+Some placeholder text added for documentation.
