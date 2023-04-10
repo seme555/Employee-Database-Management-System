@@ -26,3 +26,6 @@ Some placeholder text added for documentation.
 
 ### Implement initial styling
 Some placeholder text added for documentation.
+
+### Fix minor layout issue
+Some placeholder text added for documentation.
