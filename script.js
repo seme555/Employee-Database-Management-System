@@ -118,3 +118,5 @@
   renderEmployees();
   if (selectedEmployeeId !== -1) renderSingleEmployee();
 })();
+
+// Add section: How to Contribute - auto note
