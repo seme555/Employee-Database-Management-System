@@ -32,3 +32,6 @@ Some placeholder text added for documentation.
 
 ### Add basic HTML template
 Some placeholder text added for documentation.
+
+### Update README with usage
+Some placeholder text added for documentation.
