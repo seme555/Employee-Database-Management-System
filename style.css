@@ -194,3 +194,6 @@ body {
 .addEmployee_create button:hover {
   background-color: var(--btn-hover);
 }
+
+/* Add section: How to Contribute */
+body { background-color: #f9f4f8; }
